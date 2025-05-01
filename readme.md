@@ -1,0 +1,1 @@
+# Shopingo Full Stack MERN App
